@@ -30,7 +30,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 9. 企业横向课题：管道爬壁机器人控制技术研究，2022.03-2022.12，18万元；
 10. 教育部重点实验室开放课题：基于复合抗干扰的机器人动力学控制方法研究，2022.05-2024.05，3万元。
 
-### 受理发明专利
+## 受理发明专利
 
 1. 一种机器人关节模组分散式优化学习控制方法及系统，2022-11-18，CN202211445280.8；
 2. 一种基于非递归优化的永磁同步电机转速控制方法和系统，2022-04-28，CN202210471519.2；
@@ -44,7 +44,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 10. 一种用于低速域下的永磁同步电机转子位置估计方法，2023-05-16，CN202310553406.1.
 11. 一种永磁同步电机无位置传感器自抗扰速度控制方法,2023-09-20,CN202311211968.4.
 
-### 授权发明专利
+## 授权发明专利
 
 1. 一种永磁无刷直流电机转速波动抑制方法，2023-10-20，ZL202110788424.9；
 2. 一种无力/力矩传感器机械臂软浮动控制方法，2022-03-04，ZL202011515806.6；
@@ -54,7 +54,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 6. 一种图文视频混合显示驱动器的实现方法，2016-01-13，ZL201310460436.4；
 7. 一种可调式矿用本安电源保护电路，2016-01-01，ZL201410139484.8.
 
-### 获得软件著作权
+## 获得软件著作权
 
 1. 可视化管道运维机器人远程操控软件V1.0，2022.10.11，登记号：2022SR1396486；
 2. 基于协同控制的移动机器人定位抓取软件V1.0，2022.10.11，登记号：2022SR1396487;
@@ -63,7 +63,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 5. 面向储能电站的运维人员管理软件V1.0，2023.03.05，登记号：2023SR0582271；
 6. 数字孪生储能电站数字监控平台V1.0，2023.03.05，登记号：2023SR0582272.
 
-### 发表期刊论文
+## 发表期刊论文
 
 1. Zhu T, Mao J*, Han L, et al. Real-time dynamic obstacle avoidance for robot manipulators based on cascaded nonlinear MPC with artificial potential field[J]. IEEE Transactions on Industrial Electronics, 2023, doi: 10.1109/TIE.2023.3306405. (SCI, 中科院1区, Top, IF: 7.7)
 2. Han L, Mao J*, Zhang C, et al. A systematic trajectory tracking framework for robot manipulators: An observer-based non-smooth control approach[J]. IEEE Transactions on Industrial Electronics, 2023, doi: 10.1109/TIE.2023.3331098. (SCI, 中科院1区, Top, IF: 7.7)
@@ -86,7 +86,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 19. Han L, Mao J, Cao P, Gan Y, Li S*. Toward sensorless interaction force estimation for industrial robots using high-order finite-time observers[J]. IEEE Transactions on Industrial Electronics, 2021, 69(7): 7275-7284.
 20. Liu X, Mao J, Yang J, Li S*, Yang K. Robust predictive visual servoing control for an inertially stabilized platform with uncertain kinematics[J]. ISA transactions, 2021, 114: 347-358.
 
-### 发表会议论文
+## 发表会议论文
 
 1. Cao Z, Mao J*, Dong X, Zhang C. Direct Speed Regulation for PMSM Drive System Via a Generalized Dynamic Predictive Control Approach[C]//2022 25th International Conference on Electrical Machines and Systems (ICEMS). IEEE, 2022: 1-6.
 2. Wang X, Mao J*, Dong X, Zhang C. Observer-based Composite Super-Twisting Sliding Mode Control for High-Precision Positioning Servo System[C]//2022 China Automation Congress (CAC). IEEE, 2022: 4213-4218.
