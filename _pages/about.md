@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-#excerpt: "About me"
+# title: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ excerpt: "About me": 设置页面的摘要为"About me"。
 author_profile: true: 显示作者的个人资料。
 redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 
-## 冒建亮
+# 冒建亮
 
 上海市高等教育揽蓄计划（B类）人才，长期从事机器人与伺服系统相关的应用基础研究，曾入选2021年“江苏省科技副总”、2019年“江苏省双创博士”等项目。在IEEE Trans系列等高水平SCI/EI学术期刊发表论文10余篇，申请国家发明专利30余项，形成成果转化3项，申请美国专利1项，为企业创造直接经济效益超千万元。近三年主持科研项目经费300多万元，包括国家自然科学基金项目1项，省部级科研项目3项，企业委托课题多项等。曾获得2022年中国控制与决策会议最具人气学术奖，2022年电气工程与控制技术最佳论文奖，2020年埃斯顿“工作推土机奖”白金奖，2019年江苏省高层次创新创业人才引进计划等奖励.
 
-### 承担项目
+## 承担项目
 
 1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12，30万元；
 2. 上海市外国专家项目：基于抗干扰预测控制的新能源汽车永磁同步电机宽速域调节策略研究，2023.01-2023.12.31，15万元;
@@ -86,7 +86,7 @@ redirect_from:: 设置重定向链接，将其他链接指向该页面。-->
 19. Han L, Mao J, Cao P, Gan Y, Li S*. Toward sensorless interaction force estimation for industrial robots using high-order finite-time observers[J]. IEEE Transactions on Industrial Electronics, 2021, 69(7): 7275-7284.
 20. Liu X, Mao J, Yang J, Li S*, Yang K. Robust predictive visual servoing control for an inertially stabilized platform with uncertain kinematics[J]. ISA transactions, 2021, 114: 347-358.
 
-### 发表会议论文：
+### 发表会议论文
 
 1. Cao Z, Mao J*, Dong X, Zhang C. Direct Speed Regulation for PMSM Drive System Via a Generalized Dynamic Predictive Control Approach[C]//2022 25th International Conference on Electrical Machines and Systems (ICEMS). IEEE, 2022: 1-6.
 2. Wang X, Mao J*, Dong X, Zhang C. Observer-based Composite Super-Twisting Sliding Mode Control for High-Precision Positioning Servo System[C]//2022 China Automation Congress (CAC). IEEE, 2022: 4213-4218.
