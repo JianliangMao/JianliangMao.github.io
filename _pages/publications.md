@@ -24,13 +24,13 @@ author_profile: true
 
 > 会议论文
 
-- Liang H, Wang X\*, Mao J, Yang J. Control barrier function-based force constrained safety compliance control for manipulator[C]//*2023 28th International Conference on Automation and Computing (ICAC)*. IEEE, 2023: 1-7.
-- Pan Y, Xia F\*, Mao J. A robot manipulator grasping method based on improved YOLOX[C]//*2022 4th International Conference on Electrical Engineering and Control Technologies (CEECT)*. IEEE, 2022: 1279-1283.
-- Mao J, Yang J\*, Li Q, Li S. Extended-state-observer-based output feedback sliding mode control of inertial stabilized platform[C]//*2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA)*. IEEE, 2017: 1528-1533.
-- Mao J, Li S\*, Li Q, Yang J. Continuous second-order sliding mode control based on disturbance observer for LOS stabilized system[C]//*2016 14th International Workshop on Variable Structure Systems (VSS)*. IEEE, 2016: 394-399.
+- Liang H, Wang X\*, Mao J, Yang J. [Control barrier function-based force constrained safety compliance control for manipulator[C]](https://ieeexplore.ieee.org/document/10275266)//*2023 28th International Conference on Automation and Computing (ICAC)*. IEEE, 2023: 1-7.
+- Pan Y, Xia F\*, Mao J. [A robot manipulator grasping method based on improved YOLOX[C]](https://ieeexplore.ieee.org/document/10030260)//*2022 4th International Conference on Electrical Engineering and Control Technologies (CEECT)*. IEEE, 2022: 1279-1283.
+- Mao J, Yang J\*, Li Q, Li S. [Extended-state-observer-based output feedback sliding mode control of inertial stabilized platform[C]](https://ieeexplore.ieee.org/document/8283081)//*2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA)*. IEEE, 2017: 1528-1533.
+- Mao J, Li S\*, Li Q, Yang J. [Continuous second-order sliding mode control based on disturbance observer for LOS stabilized system[C]](https://ieeexplore.ieee.org/document/7506951)//*2016 14th International Workshop on Variable Structure Systems (VSS)*. IEEE, 2016: 394-399.
 
-   
 ### 电动汽车永磁电机调速控制方向
+
 > 期刊论文
 
 - Dong X, Mao J, Yan Y, Zhang C\*, Yang J. Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]. *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
