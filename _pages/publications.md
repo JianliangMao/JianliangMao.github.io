@@ -1,6 +1,6 @@
 ---
 #layout: archive
-#title: "专利成果"
+#title: "论文成果"
 permalink: /publications/
 author_profile: true
 ---
@@ -24,7 +24,8 @@ author_profile: true
 
 > 会议论文
 
-- Pan Y, Xia F\*, Mao J. A Robot Manipulator Grasping Method Based on Improved YOLOX[C]//*2022 4th International Conference on Electrical Engineering and Control Technologies (CEECT)*. IEEE, 2022: 1279-1283.
+- Liang H, Wang X\*, Mao J, Yang J. Control barrier function-based force constrained safety compliance control for manipulator[C]//*2023 28th International Conference on Automation and Computing (ICAC)*. IEEE, 2023: 1-7.
+- Pan Y, Xia F\*, Mao J. A robot manipulator grasping method based on improved YOLOX[C]//*2022 4th International Conference on Electrical Engineering and Control Technologies (CEECT)*. IEEE, 2022: 1279-1283.
 - Mao J, Yang J\*, Li Q, Li S. Extended-state-observer-based output feedback sliding mode control of inertial stabilized platform[C]//*2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA)*. IEEE, 2017: 1528-1533.
 - Mao J, Li S\*, Li Q, Yang J. Continuous second-order sliding mode control based on disturbance observer for LOS stabilized system[C]//*2016 14th International Workshop on Variable Structure Systems (VSS)*. IEEE, 2016: 394-399.
 
@@ -42,8 +43,8 @@ author_profile: true
 
 > 会议论文
 
-- Cao Z, Mao J\*, Dong X, Zhang C. Direct Speed Regulation for PMSM Drive System Via a Generalized Dynamic Predictive Control Approach[C]//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
-- Wang X, Mao J*, Dong X, Zhang C. Observer-based Composite Super-Twisting Sliding Mode Control for High-Precision Positioning Servo System[C]//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
+- Cao Z, Mao J\*, Dong X, Zhang C. Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
+- Wang X, Mao J*, Dong X, Zhang C. Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
 ## 其他交叉融合方向
 - Khan M I\*, Liu S, Mao J, et al. Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]. *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
