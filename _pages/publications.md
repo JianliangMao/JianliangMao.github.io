@@ -1,20 +1,21 @@
 ---
-layout: archive
+#layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#{% if author.googlescholar %}
+#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+#{% endif %}
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
 
+## 智能机器人规划与控制方向
 1. Zhu T, Mao J*, Han L, et al. Real-time dynamic obstacle avoidance for robot manipulators based on cascaded nonlinear MPC with artificial potential field[J]. IEEE Transactions on Industrial Electronics, 2023, doi: 10.1109/TIE.2023.3306405. (SCI, 中科院1区, Top, IF: 7.7)
 2. Han L, Mao J*, Zhang C, et al. A systematic trajectory tracking framework for robot manipulators: An observer-based non-smooth control approach[J]. IEEE Transactions on Industrial Electronics, 2023, doi: 10.1109/TIE.2023.3331098. (SCI, 中科院1区, Top, IF: 7.7)
 3. Cao Z, Mao J*, Dong X, et al. Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]. IEEE Transactions on Energy Conversion, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
@@ -35,3 +36,6 @@ author_profile: true
 18. Dong X, Mao J, Yan Y, Zhang C*, Yang J. Generalized Dynamic Predictive Control for Nonlinear Systems Subject to Mismatched Disturbances with Application to PMSM Drives[J]. IEEE Transactions on Industrial Electronics, 2023.
 19. Han L, Mao J, Cao P, Gan Y, Li S*. Toward sensorless interaction force estimation for industrial robots using high-order finite-time observers[J]. IEEE Transactions on Industrial Electronics, 2021, 69(7): 7275-7284.
 20. Liu X, Mao J, Yang J, Li S*, Yang K. Robust predictive visual servoing control for an inertially stabilized platform with uncertain kinematics[J]. ISA transactions, 2021, 114: 347-358.
+
+
+## 电动汽车永磁电机调速控制方向
