@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Your Name / 主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -85,10 +85,10 @@ author:
   bio              : "Shanghai University of Electric Power"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=0XpYAusAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jianliang-Mao"
+  researchgate     :  "https://www.researchgate.net/profile/Jianliang-Mao-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  gitee            : "https://gitee.com/johnnymao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8979-2646"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
