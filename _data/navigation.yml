@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title:"研究项目"
+    url: /projects/
+    
+  - title: "论文成果"
     url: /publications/
 
-  - title: "Patents"
-    url: /patents/    
+  - title: "专利成果"
+    url: /patents/  
 
-  - title: "Teaching"
+  - title: "教学内容"
     url: /teaching/    
     
   #- title: "Portfolio"
