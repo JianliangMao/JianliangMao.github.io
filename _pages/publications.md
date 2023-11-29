@@ -33,18 +33,18 @@ author_profile: true
 
 > 期刊论文
 
-- Dong X, Mao J, Yan Y, Zhang C\*, Yang J. Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]. *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
-- Cao Z, Mao J\*, Dong X, et al. Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]. *IEEE Transactions on Energy Conversion*, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
-- Huang J, Mao J\*, Dong X, Mei K, Madonski R, Zhang C. Cascaded generalized super-twisting observer design for sensorless PMSM drives[J]. *IEEE Transactions on Circuits and Systems II: Express Briefs*, doi: 10.1109/TCSII.2023.3296625. (SCI, 中科院2区, IF: 4.4)
-- 魏亚飞, 冒建亮\*, 张传林, 杨俊. 基于抗扰增强型广义预测控制的永磁同步电机伺服系统[J]. *控制与决策*, 2023, doi: 10.13195/j.kzyjc.2022.1834. (EI)
-- 冒建亮\*, 李奇, 朱海荣. 一种连续非奇异快速终端滑模控制方法[J]. *控制与决策*, 2016, 31(10): 1873-1878. (EI)
+- Dong X, Mao J, Yan Y, Zhang C\*, Yang J. [Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]](https://ieeexplore.ieee.org/document/10049756). *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
+- Cao Z, Mao J\*, Dong X, et al. [Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]](https://ieeexplore.ieee.org/document/10306308). *IEEE Transactions on Energy Conversion*, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
+- Huang J, Mao J\*, Dong X, Mei K, Madonski R, Zhang C. [Cascaded generalized super-twisting observer design for sensorless PMSM drives[J]](https://ieeexplore.ieee.org/document/10185936). *IEEE Transactions on Circuits and Systems II: Express Briefs*, doi: 10.1109/TCSII.2023.3296625. (SCI, 中科院2区, IF: 4.4)
+- 魏亚飞, 冒建亮\*, 张传林, 杨俊. [基于抗扰增强型广义预测控制的永磁同步电机伺服系统[J]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2022-1834). *控制与决策*, 2023, doi: 10.13195/j.kzyjc.2022.1834. (EI)
+- 冒建亮\*, 李奇, 朱海荣. [一种连续非奇异快速终端滑模控制方法[J]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2015-1105?st=advanced_search). *控制与决策*, 2016, 31(10): 1873-1878. (EI)
 <!-- 冒建亮\*, 魏亚飞, 张传林. 基于DSP的永磁同步电动机RCP对拖实验平台设计[J]. 实验室研究与探索, 2023, 42(04): 38-43.
 冒建亮\*, 叶桦, 李奇. 基于FPGA的步进电机电流优化控制策略[J]. 信息与控制, 2015, 44(05): 585-591.-->
 
 > 会议论文
 
-- Cao Z, Mao J\*, Dong X, Zhang C. Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
-- Wang X, Mao J*, Dong X, Zhang C. Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
+- Cao Z, Mao J\*, Dong X, Zhang C. [Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]](https://ieeexplore.ieee.org/document/9982919)//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
+- Wang X, Mao J*, Dong X, Zhang C. [Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]](https://ieeexplore.ieee.org/abstract/document/10055159)//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
 ### 其他交叉融合方向
-- Khan M I\*, Liu S, Mao J, et al. Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]. *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
+- Khan M I\*, Liu S, Mao J, et al. [Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]](https://www.sciencedirect.com/science/article/pii/S1434841123002959). *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
