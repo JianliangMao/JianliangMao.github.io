@@ -4,16 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
+{% include base_path %}
 
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
 
 ## 智能机器人规划与控制方向
 1. Zhu T, Mao J*, Han L, et al. Real-time dynamic obstacle avoidance for robot manipulators based on cascaded nonlinear MPC with artificial potential field[J]. IEEE Transactions on Industrial Electronics, 2023, doi: 10.1109/TIE.2023.3306405. (SCI, 中科院1区, Top, IF: 7.7)
