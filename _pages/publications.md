@@ -1,6 +1,6 @@
 ---
-#layout: archive
-# title: "Publications"
+layout: archive
+title: "专利成果"
 permalink: /publications/
 author_profile: true
 ---
