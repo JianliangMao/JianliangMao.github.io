@@ -9,8 +9,8 @@ main:
   - title: "专利成果"
     url: /patents/  
 
-  - title: "教学内容"
-    url: /teaching/    
+  #- title: "教学内容"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
