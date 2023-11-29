@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: false
-  #  permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   patents:
     output: true
     permalink: /:collection/:path/
@@ -227,19 +227,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _patents
   - scope:
       path: ""
-      type: patentss
+      type: patents
     values:
       layout: single
       author_profile: true
