@@ -1,20 +1,9 @@
 ---
 #layout: archive
-title: "专利成果"
+#title: "专利成果"
 permalink: /publications/
 author_profile: true
 ---
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 (*) 表示通讯作者
 ## 智能机器人规划与控制方向
@@ -52,6 +41,7 @@ author_profile: true
 冒建亮\*, 叶桦, 李奇. 基于FPGA的步进电机电流优化控制策略[J]. 信息与控制, 2015, 44(05): 585-591.-->
 
 > 会议论文
+
 - Cao Z, Mao J\*, Dong X, Zhang C. Direct Speed Regulation for PMSM Drive System Via a Generalized Dynamic Predictive Control Approach[C]//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
 - Wang X, Mao J*, Dong X, Zhang C. Observer-based Composite Super-Twisting Sliding Mode Control for High-Precision Positioning Servo System[C]//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
