@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "专利成果"
+#title: "专利成果"
 permalink: /patents/
 author_profile: true
 ---
