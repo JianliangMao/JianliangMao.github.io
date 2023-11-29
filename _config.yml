@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianliang Mao"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Jianliang Mao"
 description              : &description "IASLab智能机器人"
@@ -83,7 +83,7 @@ author:
   name             : #"Jianliang Mao"
   avatar           : "profile.png"
   bio              : "电子邮箱: jl_mao@shiep.edu.cn"
-  location         : "Yangpu District, Shanghai, China"
+  location         : "Shanghai, China"
   employer         : #"www.shiep.edu.cn"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=0XpYAusAAAAJ&hl=en"
