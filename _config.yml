@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "主页"
 title_separator          : "-"
-name                     : &name "主页"
+name                     : &name "Jianliang Mao"
 description              : &description "IASLab智能机器人"
 url                      : https://JianliangMao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jianliang Mao"
   avatar           : "profile.png"
-  bio              : "Shanghai University of Electric Power"
-  location         : "Shanghai, China"
-  employer         : "www.shiep.edu.cn"
+  bio              : "邮箱: jl_mao@shiep.edu.cn"
+  location         : "Yangpu District, Shanghai, China"
+  employer         : #"www.shiep.edu.cn"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=0XpYAusAAAAJ&hl=en"
-  email            : "jl_mao@shiep.edu.cn"
+  email            : #"jl_mao@shiep.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jianliang-Mao-3"
   uri              :
   bitbucket        :
