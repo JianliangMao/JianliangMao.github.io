@@ -9,8 +9,8 @@ main:
   - title: "专利成果"
     url: /patents/  
 
-  - title: "EN/中文"
-    url: /
+  - title: "EN"
+    url: https://jianliangmao-en.github.io/
 
   #- title: "教学内容"
   #  url: /teaching/    
