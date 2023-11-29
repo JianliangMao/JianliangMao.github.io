@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 (*) 表示通讯作者
-## 智能机器人规划与控制方向
+### 智能机器人规划与控制方向
 > 期刊论文
 
 - Zhu T, Mao J\*, Han L, Zhang C, Yang J. [Real-time dynamic obstacle avoidance for robot manipulators based on cascaded nonlinear MPC with artificial potential field[J]](https://ieeexplore.ieee.org/abstract/document/10234133). *IEEE Transactions on Industrial Electronics*, 2023, doi: 10.1109/TIE.2023.3306405. (SCI, 中科院1区, Top, IF: 7.7)
@@ -30,7 +30,7 @@ author_profile: true
 - Mao J, Li S\*, Li Q, Yang J. Continuous second-order sliding mode control based on disturbance observer for LOS stabilized system[C]//*2016 14th International Workshop on Variable Structure Systems (VSS)*. IEEE, 2016: 394-399.
 
    
-## 电动汽车永磁电机调速控制方向
+### 电动汽车永磁电机调速控制方向
 > 期刊论文
 
 - Dong X, Mao J, Yan Y, Zhang C\*, Yang J. Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]. *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
@@ -46,5 +46,5 @@ author_profile: true
 - Cao Z, Mao J\*, Dong X, Zhang C. Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
 - Wang X, Mao J*, Dong X, Zhang C. Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
-## 其他交叉融合方向
+### 其他交叉融合方向
 - Khan M I\*, Liu S, Mao J, et al. Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]. *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
