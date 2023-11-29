@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IASLab智能机器人 / 主页"
+title                    : "主页"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "主页"
+description              : &description "IASLab智能机器人"
 url                      : https://JianliangMao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JianliangMao/JianliangMao.github.io"
