@@ -44,7 +44,7 @@ author_profile: true
 > 会议论文
 
 - Cao Z, Mao J\*, Dong X, Zhang C. [Direct speed regulation for PMSM drive system via a generalized dynamic predictive control approach[C]](https://ieeexplore.ieee.org/document/9982919)//*2022 25th International Conference on Electrical Machines and Systems (ICEMS)*. IEEE, 2022: 1-6.
-- Wang X, Mao J*, Dong X, Zhang C. [Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]](https://ieeexplore.ieee.org/abstract/document/10055159)//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
+- Wang X, Mao J\*, Dong X, Zhang C. [Observer-based composite super-twisting sliding mode control for high-precision positioning servo system[C]](https://ieeexplore.ieee.org/abstract/document/10055159)//*2022 China Automation Congress (CAC)*. IEEE, 2022: 4213-4218.
 
 ### 其他交叉融合方向
 - Khan M I\*, Liu S, Mao J, Basit A, Ahmed A, Daraz A. [Electromagnetic coupling suppression of eight-ports MIMO antenna for satellite communication with neutralize block and parasitic elements[J]](https://www.sciencedirect.com/science/article/pii/S1434841123002959). *AEU-International Journal of Electronics and Communications*, 2023, 170: 154821. (SCI, 中科院3区, IF: 3.2)
