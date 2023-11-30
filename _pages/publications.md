@@ -33,8 +33,8 @@ author_profile: true
 
 > 期刊论文
 
+- Cao Z, Mao J\*, Dong X, Madonski R, Zhang C, Yang J. [Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]](https://ieeexplore.ieee.org/document/10306308). *IEEE Transactions on Energy Conversion*, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
 - Dong X, Mao J, Yan Y, Zhang C\*, Yang J. [Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives[J]](https://ieeexplore.ieee.org/document/10049756). *IEEE Transactions on Industrial Electronics*, 2023. (SCI, 中科院1区, Top, IF: 7.7)
-- Cao Z, Mao J\*, Dong X, et al. [Composite generalized dynamic predictive control with self-tuning horizon for wide-range speed regulation of PMSM drives[J]](https://ieeexplore.ieee.org/document/10306308). *IEEE Transactions on Energy Conversion*, 2023, doi: 10.1109/TEC.2023.3329931. (SCI, 中科院1区, Top, IF: 4.9)
 - Huang J, Mao J\*, Dong X, Mei K, Madonski R, Zhang C. [Cascaded generalized super-twisting observer design for sensorless PMSM drives[J]](https://ieeexplore.ieee.org/document/10185936). *IEEE Transactions on Circuits and Systems II: Express Briefs*, doi: 10.1109/TCSII.2023.3296625. (SCI, 中科院2区, IF: 4.4)
 - 魏亚飞, 冒建亮\*, 张传林, 杨俊. [基于抗扰增强型广义预测控制的永磁同步电机伺服系统[J]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2022-1834). *控制与决策*, 2023, doi: 10.13195/j.kzyjc.2022.1834. (EI)
 - 冒建亮\*, 李奇, 朱海荣. [一种连续非奇异快速终端滑模控制方法[J]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/2015-1105?st=advanced_search). *控制与决策*, 2016, 31(10): 1873-1878. (EI)
