@@ -63,6 +63,11 @@
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
+  // h1 {
+  //   margin-bottom: 0;
+  //   font-family: $sans-serif-narrow;
+  // }
+  
 }
 
 /*
