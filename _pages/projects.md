@@ -17,9 +17,9 @@ author_profile: true
     }
   </style>
 </head>
-<h3>视觉伺服规划与控制</h3>
+<h2>视觉伺服规划与控制</h2>
 <div id="item_1_1" style="float:left;">
-<h5>国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h5>
+<h4>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h4>
 <body>
     <div class="container">
         <img  class="image" src="./gif/国青基强化学习动态避障.gif"style="width:30%">
@@ -38,7 +38,7 @@ author_profile: true
     </div>
 <body>  
 <div id="item_1_2" style="float:left;">
-<h5>企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.12</h5>
+<h5>2. 企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.12</h5>
 </div>
 </body>
 
