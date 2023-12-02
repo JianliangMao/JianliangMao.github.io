@@ -19,7 +19,7 @@ author_profile: true
 </head>
 <h2>视觉伺服规划与控制</h2>
 <div id="item_1_1" style="float:left;">
-<h4>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h4>
+<h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
 <body>
     <div class="container">
         <img  class="image" src="./gif/国青基强化学习动态避障.gif"style="width:30%">
