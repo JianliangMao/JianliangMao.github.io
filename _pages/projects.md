@@ -24,7 +24,8 @@ author_profile: true
   <h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
   <body>
     <div class="container">
-      <image src="https://jianliangmao.github.io/_pages/gif/国青基强化学习动态避障.gif"style="width:30%" class="image" alt=""/>
+      <image src="https://jianliangmao.github.io/_pages/gif/国青基强化学习动态避障.gif"style="width:30%" class="image" alt="">
+      </image>
       <div id="item_1_1_1">
           &#8226; &emsp;<b>基于深度强化学习的动态避障与跟踪</b><br>
           未来随着机械臂在工业和生活上的普及，会出现越来越多的非结构化任务场景，需要对运动中物体进行加工或避开随机出现的障碍物。这就要求控制算法要有更强的智能性，而对于传统控制算法来说，非结构化场景下环境地图无法预知，障碍物和目标随机变化，人为设计控制策略将无法保证最优。而深度强化学习算法依托于神经网络强大的非线性拟合能力，且可以在环境中自主探索学习，无需根据环境模型人为设计策略，理论上只要探索时间足够长，便可获得最优策略。因此，采用深度强化学习算法作为控制算法，展开关于机械臂动态避障、动态跟踪任务很有必要。
@@ -33,7 +34,7 @@ author_profile: true
   </body>
   <body>
     <div class="container">
-      <image  src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" style="width:30%"class="image" alt=""/>
+      <image  src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" style="width:30%" alt="">
       <div id="item_1_1_2">
         &#8226; &emsp;<b>基于视觉的动态伺服控制</b><br>
         在基于视觉的机器人操作中，限制机械臂的运动学约束和预测是十分重要的，为了约束机器人的运动能见度和执行器饱和度，保证运动平滑，并保持目标在摄像机的视线内，提出了一种新的模糊自适应模型预测控制。此外，在执行视觉伺服控制时，通常需要考虑系统采样周期与控制周期之间的周期不一致的双速率约束问题。首先引入卡尔曼滤波器估计系统状态为了进一步提高系统的控制频率，采用连续线性化的方法对原模型进行了优化，减少了控制器的计算时间，我们提出了一种基于连续线性化的鲁棒模型预测控制方法的双速率约束动态视觉伺服。
@@ -57,7 +58,7 @@ author_profile: true
 <h3>教育部春晖计划合作科研项目：面向电力机器人的智能控制技术研究与应用，2023.05-2025.05</h3>
   <body>
     <div class="container">
-      <image src="https://jianliangmao.github.io/_pages//gif/遥操作.gif"style="width:30%" class="image" alt=""/>
+      <image src="https://jianliangmao.github.io/_pages//gif/遥操作.gif"style="width:30%" class="image" alt="">
       <div id="item_3_1_1">
         &#8226; &emsp;<b>基于动力学模型的无力传感器的外界力估计</b><br>
         通过融合神经网络和传统物理建模机制提高力估计精度，以及融合机理模型和误差神经网络模型的混合模型，设计观测器进行外力矩估计，所获得的结果可以用于机器人碰撞检测以及柔顺控制，实现高精度、高灵敏度的碰撞检测功能。在机器人有力传感器的情况下，我们基于力传感器对机器人设计阻抗控制器，结合强化学习算法通过训练实现不同自适应阻抗以获得良好的力接触响应，并且结合控制障碍函数（Control Barrier Function）实现力接触过程中的安全性保障，实现严格力约束，达到了机器人在装配场景下的安全性保障以及高质量的力控效果。
@@ -71,7 +72,7 @@ author_profile: true
   <h3>企业横向课题：远程协作智能运维机器人交互控制算法研究，2022.03-2023.08</h3>
     <body>
     <div class="container">
-      <image src="https://jianliangmao.github.io/_pages//gif/主动柔顺控制.gif"style="width:30%" class="image" alt=""/>
+      <image src="https://jianliangmao.github.io/_pages//gif/主动柔顺控制.gif"style="width:30%" class="image" alt="">
       <div id="item_4_1_1">
         &#8226; &emsp;<b>基于局部自主避障和人机协同的遥操作共享控制策略</b><br>
         在遥操作机器人过程中，为了避免视觉信息的局限性、通信延时以及人类操作者出现操作失误而导致机械臂与周围障碍物发生碰撞的问题，采用局部自主避障和人机协同的遥操作共享控制策略。通过人工势场法来提供吸引力和排斥力引导操作者完成避障任务，主端控制策略采用模型预测控制、控制障碍函数和模糊共享控制器结合，模糊共享控制器根据机械臂与障碍物之间的距离，动态选择控制输入，模型预测控制重新进行轨迹规划与跟踪，从而起到局部自主避障效果，再利用控制障碍函数对机械臂进行安全状态约束，从而保证机械臂的安全。
@@ -86,7 +87,7 @@ author_profile: true
   <h3>上海市外国专家项目：基于抗干扰预测控制的新能源汽车永磁同步电机宽速域调节策略研究，2023.01-2023.12.31</h3>
     <body>
     <div class="container">
-      <image src="https://jianliangmao.github.io/_pages//gif/主动柔顺控制.gif"style="width:30%" class="image" alt=""/>
+      <image src="https://jianliangmao.github.io/_pages//gif/主动柔顺控制.gif"style="width:30%" class="image" alt="">
       <div id="item_5_1_1">
         &#8226; &emsp;<b>基于局部自主避障和人机协同的遥操作共享控制策略</b><br>
         新能源电动汽车的电驱调速系统在面对复杂多变的工况时，例如快速起停、大范围速度切换以及低速爬坡等，对电机驱动系统的动态性能和抗干扰能力提出了相当苛刻的要求。为了确保电驱系统在这些恶劣的工况下展现出良好的调速性能，在非级联结构下，基于扰动观测技术和模型预测控制方法设计了一种抗干扰的复合预测速度控制策略。该策略实现了系统在受扰情况下的高精度和快速动态速度控制。同时，引入了一种动态时域更新机制，赋予系统根据实际工况进行动态性能自优化的能力，提高了电驱系统在宽速域工况下的控制性能。进一步地，通过引入控制障碍函数解决了非级联结构下的电流安全问题。从而为新能源汽车电驱宽速域调节提供了切实可行的控制方案。
