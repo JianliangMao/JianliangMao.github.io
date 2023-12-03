@@ -29,6 +29,7 @@ author_profile: true
           </div>
       </div>
   </body>
+
     <div class="container">
         <img  class="image" src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif"style="width:30%">
         <div id="item_1_1_2">
@@ -37,11 +38,12 @@ author_profile: true
         </div>
     </div>
   <body>
-    <div id="item_1_2" style="float:left;">
-      <h3>2. 企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.12</h3>
-    </div>
-  </body>
 </div>
+
+<div id="item_1_2" style="float:left;">
+  <h3>2. 企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.12</h3>
+</div>
+
 
 ### 机器人轨迹跟随控制
 
