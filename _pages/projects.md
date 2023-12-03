@@ -29,7 +29,7 @@ author_profile: true
           </div>
       </div>
   </body>
-
+  <body>
     <div class="container">
         <img  class="image" src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif"style="width:30%">
         <div id="item_1_1_2">
@@ -37,7 +37,7 @@ author_profile: true
             在基于视觉的机器人操作中，限制机械臂的运动学约束和预测是十分重要的，为了约束机器人的运动能见度和执行器饱和度，保证运动平滑，并保持目标在摄像机的视线内，提出了一种新的模糊自适应模型预测控制。此外，在执行视觉伺服控制时，通常需要考虑系统采样周期与控制周期之间的周期不一致的双速率约束问题。首先引入卡尔曼滤波器估计系统状态为了进一步提高系统的控制频率，采用连续线性化的方法对原模型进行了优化，减少了控制器的计算时间，我们提出了一种基于连续线性化的鲁棒模型预测控制方法的双速率约束动态视觉伺服。
         </div>
     </div>
-  <body>
+  </body>
 </div>
 
 <div id="item_1_2" style="float:left;">
