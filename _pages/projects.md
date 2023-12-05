@@ -41,7 +41,7 @@ author_profile: true
 <div id="item_3_1" style="float:left;clear:both;">
 <h2>人机交互与柔顺控制</h2>
 <h3>教育部春晖计划合作科研项目：面向电力机器人的智能控制技术研究与应用，2023.05-2025.05</h3></div>
-<image src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制.gif" style="width:30% hight=15%" alt="">
+<image src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制.gif" style="width:10%" alt="">
 <div id="item_3_1_1" >
 <b>&#8226; &emsp;基于动力学模型的无力传感器的外界力估计</b><br>通过融合神经网络和传统物理建模机制提高力估计精度，以及融合机理模型和误差神经网络模型的混合模型，设计观测器进行外力矩估计，所获得的结果可以用于机器人碰撞检测以及柔顺控制，实现高精度、高灵敏度的碰撞检测功能。在机器人有力传感器的情况下，我们基于力传感器对机器人设计阻抗控制器，结合强化学习算法通过训练实现不同自适应阻抗以获得良好的力接触响应，并且结合控制障碍函数（Control Barrier Function）实现力接触过程中的安全性保障，实现严格力约束，达到了机器人在装配场景下的安全性保障以及高质量的力控效果。
 </div>
