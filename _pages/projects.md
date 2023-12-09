@@ -20,12 +20,11 @@ author_profile: true
   </style>
 </head> -->
 
-</div>
-
 <div id="item_1_1" style="display: flex; align-items: center;">
-<h2>视觉伺服规划与控制</h2><br>
-<h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
+<h2>视觉伺服规划与控制</h2>
 </div>
+<h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
+
 
 <div style="display: flex; align-items: center;">
 
@@ -62,10 +61,12 @@ author_profile: true
 <div id="item_1_2" style="display: flex; align-items: center;">
 <h3>2. 企业横向课题：智能焊接机器人视觉伺服与运动控制系统研发，2022.11-2023.12</h3>
 </div>
+
 <div id="item_2" style="float:left;clear:both;">
 <h2>机器人轨迹跟随控制</h2>
 <h3>1.教育部重点实验室开放课题：基于复合抗干扰的机器人动力学控制方法研究，2022.05~2024.04</h3>
 <image  src="https://jianliangmao.github.io/_pages/gif/抗干扰动力学.gif" style="width:30%" alt="">
+</div> 
 <div id="item_2_1">
 本项目通过结合机械臂系统动力学原理，分析6DOF机械臂系统特性，采用参数辨识方法建立6DOF机械臂系统非线性动力学模型，并搭建实验平台，验证所建立的动力学模型。随后，针对多源扰动、约束以及状态未知等问题，设计了对应的非线性控制算法，实现了高性能的轨迹跟踪控制目标。
 </div>
