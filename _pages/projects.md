@@ -42,6 +42,23 @@ author_profile: true
 <h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
 </div>
 
+<div style="display: flex; align-items: center;">
+
+  <!-- 左侧图 -->
+  <div style="flex-basis: 30%;">
+    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200">
+  </div>
+
+  <!-- 中间空隙 -->
+  <div style="flex-basis: 5%;"></div>
+  
+  <!-- 右侧介绍 -->
+  <div style="flex-basis: 65%;">
+   <b>&#8226; &emsp;基于深度强化学习的动态避障与跟踪</b><br>随着机械臂在工业和服务业应用中的普及，会出现越来越多的非结构化任务场景，需要对运动中物体进行加工或避开随机出现的障碍物。这就要求控制算法要有更强的智能性，而对于传统控制算法来说，非结构化场景下环境地图无法预知，障碍物和目标随机变化，人为设计控制策略将无法保证最优。而深度强化学习算法依托于神经网络强大的非线性拟合能力，且可以在环境中自主探索学习，无需根据环境模型人为设计策略，理论上只要探索时间足够长，便可获得最优策略。因此，采用深度强化学习算法作为控制算法，展开关于机械臂动态避障、动态跟踪任务很有必要。
+  </div>
+
+</div>
+
 <image  src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" style="width:30%" alt="">
   
 <div id="item_1_1_2">
