@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200">
+    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div> 
@@ -27,7 +27,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" alt="" width="300" height="200">
+    <img src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -47,7 +47,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/抗干扰动力学控制.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/抗干扰动力学控制.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -63,7 +63,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/爬壁机器人3.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/爬壁机器人3.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -81,7 +81,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制43.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制43.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -96,7 +96,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/柔顺控制外力矩估计.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/柔顺控制外力矩估计.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -114,7 +114,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/遥操作.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/遥操作.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -132,7 +132,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/新能源电机.jpg" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/新能源电机.jpg" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -152,7 +152,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/压力球团.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/压力球团.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -168,7 +168,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/仓库.gif" alt="" width="300" height="200">
+    <img  src="https://jianliangmao.github.io/_pages/gif/仓库.gif" alt="" width="300" height="200" object-fit="none">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
