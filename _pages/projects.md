@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200" object-fit="none">
+    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div> 
@@ -27,7 +27,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" alt="" width="300" height="200" object-fit="none">
+    <img src="https://jianliangmao.github.io/_pages/gif/国青模糊自适应模型预测控制.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -47,7 +47,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/抗干扰动力学控制.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/抗干扰动力学控制.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -63,7 +63,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/爬壁机器人3.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/爬壁机器人3.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -81,7 +81,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制43.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/主动柔顺控制43.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -96,7 +96,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/柔顺控制外力矩估计.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/柔顺控制外力矩估计.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -114,7 +114,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/遥操作.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/遥操作.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -132,7 +132,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/新能源电机.jpg" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/新能源电机.jpg" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -152,7 +152,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/压力球团.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/压力球团.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -168,14 +168,14 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/仓库.gif" alt="" width="300" height="200" object-fit="none">
+    <img  src="https://jianliangmao.github.io/_pages/gif/仓库.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
   <!-- 右侧介绍 -->
   <div style="flex-basis: 65%;">
-  <b>&#8226;&emsp;基于XX的</b><br>
-    <span style="font-size: 0.9em;">电力物资仓储物流属于电力行业中的重要环节，对电力企业的经营管理具有重要影响。电力物资价值高、使用特殊、采购成本高，属于专用设备和特种设备，具有种类多、需求大、供应时间紧急等特征，对仓储的精益化管理具有较高要求。为此我们设计了一种电力智能仓库信息化管理系统，通过运用先进成熟的计算机和通信技术，按照协同、实用、共享、安全的原则，构建一站式、一体化、高质量、高效率、智能化的仓储信息管理系统。采用RFID技术进行实时校对和处理，避免了人为因素造成的一系列问题，确保系统信息的真实性、准确性和实时性；标准化当前产品的入库和出库业务流程，提高工作人员的工作效率；同时通过实时数据信息采集，可以实时了解到仓库货物和环境情况。</span>
+  <b>&#8226;&emsp;基于IoT和RFID的智能仓储系统</b><br>
+    <span style="font-size: 0.9em;">电力物资仓储物流属于电力行业中的重要环节，对电力企业的经营管理具有重要影响。本项目设计一种电力智能仓库信息化管理系统，通过运用先进成熟的计算机和通信技术，按照协同、实用、共享、安全的原则，构建一站式、一体化、高质量、高效率、智能化的仓储信息管理系统。采用RFID技术进行实时校对和处理，避免了人为因素造成的一系列问题，确保系统信息的真实性、准确性和实时性；标准化当前产品的入库和出库业务流程，提高工作人员的工作效率；同时通过实时数据信息采集，可以实时了解到仓库货物和环境情况。</span>
   </div>
 </div>
 
