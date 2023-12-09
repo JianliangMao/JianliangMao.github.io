@@ -46,7 +46,7 @@ author_profile: true
 
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    ![图片描述](链接到你的图片)
+    ![图片描述](https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif)
   </div>
 
   <!-- 右侧介绍 -->
