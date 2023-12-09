@@ -20,31 +20,6 @@ author_profile: true
   </style>
 </head> -->
 
-
-<!--<div style="display: flex; align-items: center;">
-
-  <!-- 左侧图 -->
-  <div style="flex-basis: 30%;">
-    <img src="https://example.com/path/to/your/image.jpg" alt="山脉风景" width="300" height="200">
-  </div>
-
-  <!-- 中间空隙 -->
-  <div style="flex-basis: 5%;"></div>
-
-  <!-- 右侧介绍 -->
-  <div style="flex-basis: 65%;">
-    ## 介绍标题
-
-    这里是你的介绍内容。你可以在这里添加段落、列表等Markdown格式的内容。
-
-    例如：
-    - 项目一
-    - 项目二
-    - 项目三
-  </div>
-
-</div>-->
-
 <div style="display: flex; align-items: center;">
 
   <!-- 左侧图 -->
