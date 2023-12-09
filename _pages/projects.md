@@ -46,7 +46,7 @@ author_profile: true
 
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    ![图片描述](https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif)
+    <img src="https://jianliangmao.github.io/_pages/gif/国自然基动态避障32.gif" alt="山脉风景" width="300" height="200">
   </div>
 
   <!-- 右侧介绍 -->
