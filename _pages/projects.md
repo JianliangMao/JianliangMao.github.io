@@ -1,4 +1,4 @@
-![image](https://github.com/JianliangMao/JianliangMao.github.io/assets/152237711/49bd4f07-87ad-4a0d-9d26-d4162649e5e0)---
+---
 #layout: archive
 title: "科研项目"
 permalink: /projects/
