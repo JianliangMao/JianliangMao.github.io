@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <div id="item_1_1" style="display: flex; align-items: center;">
-<h2>视觉伺服规划与控制</h2>
+<h2>视觉伺服规划与控制</h2><br>
 <h3>1. 国家自然科学基金青年项目：不确定性环境下的机械臂约束视觉伺服控制研究，2023.01-2025.12</h3>
 </div>
 
