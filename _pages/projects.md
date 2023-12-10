@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="../_pages/gif/国自然基动态避障32.gif" alt="" width="300" height="200" object-fit="cover">
+    <img src="https://jianliangmao.github.io/_pages/gif/青年基金_DRL避障.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div> 
@@ -27,13 +27,13 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img src="../_pages/gif/国青模糊自适应模型预测控制.gif" alt="" width="300" height="200" object-fit="cover">
+    <img src="https://jianliangmao.github.io/_pages/gif/青年基金_SLMPC视觉伺服.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
   <!-- 右侧介绍 -->
   <div style="flex-basis: 65%;">
-   <b>&#8226;&emsp;基于逐次线性化的动态视觉伺服控制</b><br>
+   <b>&#8226;&emsp;基于逐次线性化的动态视觉伺服预测控制</b><br>
     <span style="font-size: 0.9em;">在基于视觉的机器人操作中，限制机械臂的运动学约束和预测是十分重要的，为了约束机器人的运动能见度和执行器饱和度，保证运动平滑，并保持目标在摄像机的视线内，提出一种新的模糊自适应模型预测控制。此外，在执行视觉伺服控制时，通常需要考虑系统采样周期与控制周期之间的周期不一致的双速率约束问题。首先引入卡尔曼滤波器估计系统状态为了进一步提高系统的控制频率，采用连续线性化的方法对原模型进行了优化，减少了控制器的计算时间，提出一种基于连续线性化的鲁棒模型预测控制方法的双速率约束动态视觉伺服。</span>
   </div>
 </div>
@@ -47,7 +47,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="../_pages/gif/抗干扰动力学控制.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/重实课题_非光滑轨迹跟随.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -63,7 +63,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/爬壁机器人3.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_爬壁机器人系统.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -81,7 +81,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="../_pages/gif/主动柔顺控制.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/春晖计划_安全主动柔顺.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -96,7 +96,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/柔顺控制外力矩估计.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/春晖计划_融合物理数据外力估计.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -114,7 +114,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/遥操作.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_遥操作共享控制.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -132,7 +132,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/新能源电机.jpg" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/上海市外专_新能源伺服驱动.jpg" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -152,7 +152,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/压力球团.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_球团压力自主检测.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
@@ -168,13 +168,13 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/仓库.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_智能仓库信息化.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
   <!-- 右侧介绍 -->
   <div style="flex-basis: 65%;">
-  <b>&#8226;&emsp;基于IoT和RFID的智能仓储系统</b><br>
+  <b>&#8226;&emsp;基于IoT和RFID的智能仓储管理系统</b><br>
     <span style="font-size: 0.9em;">电力物资仓储物流属于电力行业中的重要环节，对电力企业的经营管理具有重要影响。本项目设计一种电力智能仓库信息化管理系统，通过运用先进成熟的计算机和通信技术，按照协同、实用、共享、安全的原则，构建一站式、一体化、高质量、高效率、智能化的仓储信息管理系统。采用RFID技术进行实时校对和处理，避免了人为因素造成的一系列问题，确保系统信息的真实性、准确性和实时性；标准化当前产品的入库和出库业务流程，提高工作人员的工作效率；同时通过实时数据信息采集，可以实时了解到仓库货物和环境情况。</span>
   </div>
 </div>
