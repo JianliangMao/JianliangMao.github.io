@@ -148,14 +148,14 @@ author_profile: true
 <div style="display: flex; align-items: center;">
   <!-- 左侧图 -->
   <div style="flex-basis: 30%;">
-    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_智能仓库信息化.gif" alt="" width="300" height="200" object-fit="cover">
+    <img  src="https://jianliangmao.github.io/_pages/gif/省产学研_驱动一体无刷.gif" alt="" width="300" height="200" object-fit="cover">
   </div>
   <!-- 中间空隙 -->
   <div style="flex-basis: 5%;"></div>
   <!-- 右侧介绍 -->
   <div style="flex-basis: 65%;">
-  <b>&#8226;&emsp;基于IoT和RFID的智能仓储管理系统</b><br>
-    <span style="font-size: 0.9em;">电力物资仓储物流属于电力行业中的重要环节，对电力企业的经营管理具有重要影响。本项目设计一种电力智能仓库信息化管理系统，通过运用先进成熟的计算机和通信技术，按照协同、实用、共享、安全的原则，构建一站式、一体化、高质量、高效率、智能化的仓储信息管理系统。采用RFID技术进行实时校对和处理，避免了人为因素造成的一系列问题，确保系统信息的真实性、准确性和实时性；标准化当前产品的入库和出库业务流程，提高工作人员的工作效率；同时通过实时数据信息采集，可以实时了解到仓库货物和环境情况。</span>
+  <b>&#8226;&emsp;基于低压直流无刷电机的力控模组</b><br>
+    <span style="font-size: 0.9em;">机器人在装配领域对精密力控有着高度要求，同时夹持结构的设计也受到体积的限制。本项目的首要任务是设计并整合低压无刷直流驱动控制电路，以确保整个系统具备严格的稳定性和可靠性。在控制算法方面，采用基于FOC（磁场定向控制）的矢量控制算法，并引入扰动观测器对干扰进行估计与补偿，旨在提升伺服电机的工作效率和运动精度。同时，引入基于S型曲线的速度规划算法，以确保电机运动更加平稳。这些算法的整合有力地支持了机器人在装配领域执行复杂任务时的高要求。</span>
   </div>
 </div>
 
