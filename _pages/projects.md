@@ -180,3 +180,17 @@ author_profile: true
 </div>
 
 <h3>企业横向课题：食品机械智能装备控制系统研发，2022.03-2025.02
+
+<div style="display: flex; align-items: center;">
+  <!-- 左侧图 -->
+  <div style="flex-basis: 30%;">
+    <img  src="https://jianliangmao.github.io/_pages/gif/企业横向_食品机械松丝设备.gif" alt="" width="300" height="200" object-fit="cover">
+  </div>
+  <!-- 中间空隙 -->
+  <div style="flex-basis: 5%;"></div>
+  <!-- 右侧介绍 -->
+  <div style="flex-basis: 65%;">
+  <b>&#8226;&emsp;基于STM32的多轴运动控制系统</b><br>
+    <span style="font-size: 0.9em;">智能化食品机械加工设备是一种先进的制造设备，不仅整合了运动控制闭环技术、传感测量技术、液晶显示技术和故障诊断技术，而且通过这些技术的有机结合，实现了设备的一键化智能操作。为了确保设备的高效运行和稳定性，智能化食品机械加工设备采用了基于STM32F4的主控芯片和ucosII嵌入式实时操作系统。这种先进的主控芯片不仅提供了强大的计算和控制能力，而且结合了ucosII嵌入式实时操作系统，使得设备能够快速响应各种指令，实现高度智能化的控制。</span>
+  </div>
+</div>
